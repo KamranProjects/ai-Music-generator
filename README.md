@@ -14,6 +14,9 @@ The UI and features were built half with vibe-coding and half by me fixing and a
 
 It’s like your lazy shortcut to creating music — but still with full control 🎹🔥
 
+🔗 **Live Demo:** [beatflow-olive.vercel.app](https://beatflow-olive.vercel.app/)
+
+
 [![React](https://img.shields.io/badge/React-18.3.1-61dafb?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
