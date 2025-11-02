@@ -61,8 +61,11 @@ A modern, intuitive web application for generating MIDI compositions using AI-po
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/KamranProjects/ai-Music-generator.git
+
+# Go into the project folder
+cd ai-Music-generator
+
 
 # Install dependencies
 npm install
