@@ -1,4 +1,18 @@
-# 🎹 AI-Powered MIDI Generator
+# 🎹 AI-Powered Text to Music Generator
+
+So basically... I was too lazy to learn full music theory 😂
+I wanted to make melodies, drums, and stuff without wasting hours figuring out where each note goes — so I made this AI MIDI Generator.
+
+You just type something like:
+
+“Make a chill lofi beat with a sad vibe”
+
+…and boom — it gives you ready notes for melody, bass, and chords. You can drop that straight into a piano roll, edit anything, and even export to FL Studio as a MIDI.
+
+Most AI tools make random music you can’t control — this one gives you everything in your hands.
+The UI and features were built half with vibe-coding and half by me fixing and adding stuff until it felt smooth.
+
+It’s like your lazy shortcut to creating music — but still with full control 🎹🔥
 
 [![React](https://img.shields.io/badge/React-18.3.1-61dafb?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6?logo=typescript)](https://www.typescriptlang.org/)
